@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, I am Joe Fong :)
+
+```
+const joe = {
+  pronouns: "he" | "him",
+  canCodeIn: ['python', 'javascript', 'nim', 'ruby'],
+  currentFocus: 'learning some basic of docker',
+  nextTarget: 'build myself a little home server to self-host apps'
+}
+
+```
 
 <!--
 **kapppa-joe/kapppa-joe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
