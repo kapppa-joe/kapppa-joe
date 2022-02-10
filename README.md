@@ -4,6 +4,7 @@ A little about me...
 ```javascript
 const joe = {
   pronouns: "he" | "him",
+  likes: ['reading', 'walking in nature', 'coffee', 'japanese food'],
   canCodeIn: ['python', 'javascript', 'nim', 'ruby'],
   currentFocus: 'learning some basic of docker',
   nextTarget: 'build myself a little home server to self-host apps'
