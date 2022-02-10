@@ -1,6 +1,7 @@
 ### Hi, I am Joe Fong :)
 
-```
+A little about me...
+```javascript
 const joe = {
   pronouns: "he" | "him",
   canCodeIn: ['python', 'javascript', 'nim', 'ruby'],
