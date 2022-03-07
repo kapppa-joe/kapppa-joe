@@ -6,8 +6,8 @@ const joe = {
   pronouns: ['he', 'him'],
   likes: ['reading', 'walking in nature', 'coffee', 'japanese food'],
   canCodeIn: ['python', 'javascript', 'nim', 'ruby'],
-  currentFocus: 'learning some basic of docker',
-  nextTarget: 'build myself a little home server to self-host apps'
+  currentFocus: 'practise some ruby with tdd',
+  nextTarget: 'write a wordle solver'
 }
 
 ```
