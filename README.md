@@ -5,9 +5,9 @@ A little about me...
 const joe = {
   pronouns: ['he', 'him'],
   likes: ['reading', 'walking in nature', 'coffee', 'japanese food'],
-  canCodeIn: ['python', 'javascript', 'nim', 'ruby'],
-  currentFocus: 'practise some ruby with tdd',
-  nextTarget: 'write a wordle solver'
+  canCodeIn: ['python', 'javascript', 'ruby', 'nim'],
+  currentFocus: 'learning a bit of haskell',
+  nextTarget: 'complete AoC 2021 before this year Xmas ;)'
 }
 
 ```
