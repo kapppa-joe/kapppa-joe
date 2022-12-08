@@ -7,7 +7,7 @@ const joe = {
   likes: ['reading', 'walking in nature', 'coffee', 'japanese food'],
   canCodeIn: ['python', 'javascript', 'ruby', 'nim'],
   currentFocus: 'learning a bit of haskell',
-  nextTarget: 'complete AoC 2021 before this year Xmas ;)'
+  nextTarget: 'solve AoC 2022 as much as I can'
 }
 
 ```
