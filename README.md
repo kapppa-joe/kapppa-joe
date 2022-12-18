@@ -4,10 +4,11 @@ A little about me...
 ```javascript
 const joe = {
   pronouns: ['he', 'him'],
-  likes: ['reading', 'walking in nature', 'coffee', 'japanese food'],
+  likes: ['reading 📖', 'walking in nature 🥾', 'coffee ☕️', 'japanese food 🍣🍜🍲🍤🍙🍢💕'],
   canCodeIn: ['python', 'javascript', 'ruby', 'nim'],
-  currentFocus: 'learning a bit of haskell',
-  nextTarget: 'solve AoC 2022 as much as I can'
+  hasExperienceIn: ['React', 'ExpressJS', 'Pandas', 'Pyspark'],
+  currentFocus: 'solve AoC🎄2022 as much as I can',
+  nextTarget: 'do the first few days of AoC in a new lang that I'm interested in (haskell? rust? elixir?)'
 }
 
 ```
