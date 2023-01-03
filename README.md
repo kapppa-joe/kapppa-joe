@@ -8,7 +8,7 @@ const joe = {
   canCodeIn: ['python', 'javascript', 'ruby', 'nim'],
   hasExperienceIn: ['React', 'ExpressJS', 'Pandas', 'Pyspark'],
   currentFocus: 'solve AoC🎄2022 as much as I can',
-  nextTarget: 'do the first few days of AoC in a new lang that I'm interested in (haskell? rust? elixir?)'
+  nextTarget: 'do the first few days of AoC in a new lang that Im interested in (haskell? rust? elixir?)'
 }
 
 ```
