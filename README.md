@@ -7,8 +7,8 @@ const joe = {
   likes: ['reading 📖', 'walking in nature 🥾', 'coffee ☕️', 'japanese food 🍣🍜🍲🍤🍙🍢💕'],
   canCodeIn: ['python', 'javascript', 'ruby', 'nim'],
   hasExperienceIn: ['React', 'ExpressJS', 'Pandas', 'Pyspark'],
-  currentFocus: 'solve AoC🎄2022 as much as I can',
-  nextTarget: 'do the first few days of AoC in a new lang that Im interested in (haskell? rust? elixir?)'
+  currentFocus: 'do a few boxes in htb',
+  nextTarget: 'get my head around the ownership and lifetime rules of rust 🤯'
 }
 
 ```
