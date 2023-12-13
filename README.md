@@ -5,10 +5,10 @@ A little about me...
 const joe = {
   pronouns: ['he', 'him'],
   likes: ['reading 📖', 'walking in nature 🥾', 'coffee ☕️', 'japanese food 🍣🍜🍲🍤🍙🍢💕'],
-  canCodeIn: ['python', 'javascript', 'ruby', 'nim'],
+  canCodeIn: ['python', 'javascript', 'ruby', 'haskell', 'nim'],
   hasExperienceIn: ['React', 'ExpressJS', 'Pandas', 'Pyspark'],
   currentFocus: 'do a few boxes in htb',
-  nextTarget: 'get my head around the ownership and lifetime rules of rust 🤯'
+  nextTarget: 'solve adventOfCode 2023 in haskell'
 }
 
 ```
